@@ -1,0 +1,5 @@
+2024-05-09 12:56:47.175 [main] DEBUG c.e.repository.impl.UserRepository - Data read successful.
+2024-05-09 12:57:00.527 [main] DEBUG c.e.repository.impl.UserRepository - User data delete successful.
+2024-05-09 12:58:15.553 [main] DEBUG c.e.repository.impl.UserRepository - Data read successful.
+2024-05-09 12:58:48.556 [main] DEBUG c.e.repository.impl.UserRepository - User data update successful.
+2024-05-09 12:59:04.354 [main] INFO  com.example.service.UserService - Data inputs incorrect.
